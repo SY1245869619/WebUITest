@@ -1,0 +1,9 @@
+base:基类
+    base_page:BasePage类是POM中的基类，主要用于提供常用的函数，为页面对象类进行服务。
+        selenium常用函数：
+        元素定位、输入、点击、访问url、等待、关闭、等
+page_object:页面对象类
+    index_page:主页
+    login_page:登录页
+test_case:测试用例类
+data:测试数据类
